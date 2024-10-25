@@ -1,5 +1,5 @@
 # Laura Sofia Lozano Diaz
-# Proyecto 4 Sistemas de Interacción
+# Sistemas de Interacción - Project #4
 
 A very basic DJ-like set up using OSC and Pure Data.
 
